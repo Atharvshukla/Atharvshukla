@@ -4,7 +4,8 @@
 </p>
 
 <h1 align = "center">Hello There!!!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&" alt="nandurijv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&" alt="atharvshukla" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandurijv&label=Profile%20views&color=0e75b6&style=flat" alt="atharvshukla" /> <
 <!--
 **Atharvshukla/Atharvshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
