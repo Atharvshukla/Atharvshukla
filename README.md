@@ -4,9 +4,16 @@
 </p>
 
 <h1 align = "center">Hello There!!!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&" alt="atharvshukla" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvshukla&show_icons=true&locale=en&layout=compact" alt="atharvshukla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&bg_color=22272e" alt="atharvshukla" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvshukla&show_icons=true&locale=en&layout=compact&" alt="atharvshukla" /></p>
 
+
+
+<br><br><br><br><br><br>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Atharvshukla&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Atharvshukla/Atharvshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
