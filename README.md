@@ -7,7 +7,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&bg_color=22272e" alt="atharvshukla" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharvshukla&show_icons=true&locale=en&layout=compact&" alt="atharvshukla" /></p>
-
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvshukla&mode=daily&theme=light&theshow_icons=true&locale=en"height="160" alt="Atharvshukla" /></p>
+</div>
 
 
 <br><br><br><br><br><br>
