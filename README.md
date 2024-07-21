@@ -6,7 +6,10 @@
 <div align="center">
 <img  alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
-<br><br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Atharv+Shukla;I+Am+A+Final+Year+Btech+Student;Full+Stack-Web+Devloper;MERN;Blockchain"></a>
+</p>
+
   <h3 align="left">📈 My GitHub Stats and Activity</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&theme=dark" alt="atharvshukla" />
@@ -71,6 +74,11 @@
 ### Organizations that I have contributed to:
 
 [<img src="https://avatars.githubusercontent.com/u/102827915?s=200&v=4" height="50" width="50">](https://github.com/VITMAS-VITVellore)
+
+<h3 align="left">Activity:</h3>
+
+![JaivalBuchara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvshukla&custom_title=Jaival's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
