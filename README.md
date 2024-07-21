@@ -17,7 +17,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Atharvshukla&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Atharvshukla&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharvshukla&theme=dark&hide_border=true" />
 
@@ -32,6 +32,8 @@
   </td>
 </tr>
 </table>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
 
 
@@ -71,10 +73,7 @@
 
 [<img src="https://avatars.githubusercontent.com/u/102827915?s=200&v=4" height="50" width="50">](https://github.com/VITMAS-VITVellore)
 
-<h3 align="left">Activity:</h3>
 
-![JaivalBuchara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharvshukla&custom_title=Jaival's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝
