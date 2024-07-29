@@ -69,7 +69,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharvshukla&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Organizations that I have contributed to:
+### Organizations that I have contributed to:-
 
 [<img src="https://avatars.githubusercontent.com/u/102827915?s=200&v=4" height="50" width="50">](https://github.com/VITMAS-VITVellore)
 
